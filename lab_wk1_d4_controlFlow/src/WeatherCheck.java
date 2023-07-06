@@ -10,7 +10,7 @@ public class WeatherCheck {
         } else if (temperature < 20 && !currentlyRaining) {
             System.out.println("wear a jumper/coat it may be cold");
         }else {
-            System.out.println("your probably better of staying indoors");
+            System.out.println("you should indoors, unless you like the cold and rain");
         }
 
 
