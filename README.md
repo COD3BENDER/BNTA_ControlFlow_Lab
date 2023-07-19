@@ -1,2 +1,2 @@
-# bnta_labs
-Repository for BNTA Labs 
+# bnta_ControlFlow
+Repository for BNTA ControlFlow lab
